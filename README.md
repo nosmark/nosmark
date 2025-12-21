@@ -1,7 +1,4 @@
-## Hi there 👋
+## 🌌Hi there🌌
 
-- 🌱 I’m currently learning python
-- 🤔 I’m looking for help with everything
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: 1 + 1 = 2
+###I'm currently learning Python and fighting with bugs on Linux, would love any help
 
