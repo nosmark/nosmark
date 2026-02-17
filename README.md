@@ -1,6 +1,6 @@
-# Hi there, I'm Nosmark
+# Hello
 
-I'm currently learning Python and fighting with bugs on Linux, would love any help
+Currently trying to understand how to write letters in ide and fighting with linux, help
 
 
 
