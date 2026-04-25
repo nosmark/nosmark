@@ -1,6 +1,6 @@
-# Hello
+# Hello, i'm 🔮nosmark🔮
+Something will appear here later...
 
-Currently trying to understand how to write letters in ide and fighting with linux, help
 
 
 
